@@ -12,7 +12,7 @@ Descarga: https://github.com/tensorflow/models
 y seguimos la guía de los tutoriales impartidos por el usuario de youtube sentdex. 
 Pagina:https://pythonprogramming.net/introduction-use-tensorflow-object-detection-api-tutorial/
 
-Descripcion: Es un sistema de visión por computador que detecta la cantidad de espacios disponibles en una oficina o salón. Si desea conocer mas puede leer nuestro archivo de PowerPoint "SPACIUM.pptx".
+Descripcion: Es un sistema de visión por computador que detecta la cantidad de espacios disponibles en una oficina o salón. Si desea conocer mas puede leer nuestro archivo de PowerPoint "SPACIUM.pptx" o "Spacium.pdf".
 
 Setup:
 Descargar anaconda para python 3.6 y las siguientes dependecias.
